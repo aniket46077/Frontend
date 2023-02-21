@@ -1,0 +1,35 @@
+.co1{
+    display: flex;
+    background: rgb(221, 242, 230);
+    box-shadow: 0 5px 15px rgba(91, 201, 184, 0.06);
+  }
+  
+  .cl1 ul {
+    margin-left: 80px;
+    margin-top: 100px;
+  }
+  
+  .cl1 h4{
+    font-size: 50px;
+    
+  }
+  
+  .cl1 ul p{
+    margin-top: 80px;
+    width: 800px;
+    font-size: 20px;
+    
+  }
+  
+  .cl2 img{
+    margin-left: 100px;
+    
+  }
+
+  .ap1{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 0px;
+    padding: 50px;
+  }
